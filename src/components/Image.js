@@ -6,7 +6,6 @@ import image2 from './asset/tr2.jpg';
 import image3 from './asset/tr3.jpg';
 import image4 from './asset/tr4.jpg';
 import image5 from './asset/tr5.jpg';
-import image6 from './asset/alatoo logo.jpg';
 import '../App.css';
 
 
@@ -33,7 +32,6 @@ const Image = () => {
       }}
        className='btn'>Click to travel around TURKIYE !</button>
       </div>
-      <img src={image6} alt="logo" width={60} className="logo"/>
     </div>
   )
 }
