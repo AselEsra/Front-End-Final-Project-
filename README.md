@@ -24,7 +24,7 @@ Final result:
 
 A single button which helps us to change the image whenever it is clicked. Images are taken all around the Turkiye. So, you can see many places only by clicking the same button!
 
-<img src="https://user-images.githubusercontent.com/64264345/207440164-0f8fd1be-fefb-40c6-918d-34d26984321f.png" width="500"> <img src="https://user-images.githubusercontent.com/64264345/207440197-6ee9aa36-e9fb-4525-95c6-9880acfb3c9c.png" width="500">
+<img src="https://user-images.githubusercontent.com/64264345/207440164-0f8fd1be-fefb-40c6-918d-34d26984321f.png" width="500"> <img src="https://user-images.githubusercontent.com/64264345/207440197-6ee9aa36-e9fb-4525-95c6-9880acfb3c9c.png" width="500"> <img src="https://user-images.githubusercontent.com/64264345/207442610-b9f367db-57a3-4d63-843a-a9b4df79ac50.png" width="500"> <img src="https://user-images.githubusercontent.com/64264345/207442958-95d91990-82e6-4b66-b48a-f35ee407193b.png" width="500">
 
 
 ### Alatoo University Logo
