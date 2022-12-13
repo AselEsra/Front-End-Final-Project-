@@ -22,7 +22,7 @@ Final result:
 
 ### The Usage
 
-A single button which helps us to change the image whenever it is clicked.
+A single button which helps us to change the image whenever it is clicked. Images are taken all around the Turkiye. So, you can see many places only by clicking the same button!
 
 <img src="https://user-images.githubusercontent.com/64264345/207440164-0f8fd1be-fefb-40c6-918d-34d26984321f.png" width="500"> <img src="https://user-images.githubusercontent.com/64264345/207440197-6ee9aa36-e9fb-4525-95c6-9880acfb3c9c.png" width="500">
 
@@ -36,6 +36,7 @@ A single button which helps us to change the image whenever it is clicked.
 
 ### Youtube Tutorial
 
+coming soon...
 
 
 
