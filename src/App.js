@@ -1,13 +1,13 @@
-import React from 'react'
-import Image from './components/Image'
 import './App.css';
+import Image from './components/Image';
+import React from 'react'
 
-const App = () => {
+function App() {
   return (
-    <div>
+    <div className="App">
       <Image />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;

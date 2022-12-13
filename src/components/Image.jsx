@@ -1,19 +1,19 @@
 import React, { useEffect, useState } from 'react';
-import image from './asset/tr.jpg';
-import image0 from './asset/tr0.jpg';
-import image1 from './asset/tr1.jpg';
-import image2 from './asset/tr2.jpg';
-import image3 from './asset/tr3.jpg';
-import image4 from './asset/tr4.jpg';
-import image5 from './asset/tr5.jpg';
-import image6 from './asset/alatoo logo.jpg';
+import image from './assets/tr.jpg';
+import image0 from './assets/tr0.jpg';
+import image1 from './assets/tr1.jpg';
+import image2 from './assets/tr2.jpg';
+import image3 from './assets/tr3.jpg';
+import image4 from './assets/tr4.jpg';
+import image5 from './assets/tr5.jpg';
+import image6 from './assets/alatoo logo.jpg';
 import '../App.css';
 
 
 const Image = () => {
   const [selectedImage, setSelectedImage] = useState(0)
   const [allImages, setAllImages] = useState([image,image0, image1, image2, image3, image4, image5])
-
+  
   useEffect(() => {
     setInterval(() => {
       setSelectedImage(selectedImage => selectedImage > 3 ? 0 : selectedImage + 1)
